@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FalconTech-Movies", "FalconTech-Movies\FalconTech-Movies.csproj", "{0D6E9AA2-1F89-4B5E-8701-6D2944C227E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesDAT", "MoviesDAT\MoviesDAT.csproj", "{17741750-863C-4C03-ADE4-01B5FD1D1EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6E9AA2-1F89-4B5E-8701-6D2944C227E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6E9AA2-1F89-4B5E-8701-6D2944C227E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6E9AA2-1F89-4B5E-8701-6D2944C227E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6E9AA2-1F89-4B5E-8701-6D2944C227E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17741750-863C-4C03-ADE4-01B5FD1D1EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17741750-863C-4C03-ADE4-01B5FD1D1EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17741750-863C-4C03-ADE4-01B5FD1D1EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17741750-863C-4C03-ADE4-01B5FD1D1EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D0A87F-6731-44AA-B96C-73D58215C2F8}
+	EndGlobalSection
+EndGlobal
